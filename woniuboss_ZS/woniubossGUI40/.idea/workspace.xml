@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="04910c64-4ffb-4bc5-98f9-1be9e0759780" name="Default Changelist" comment="" />
+    <list default="true" id="04910c64-4ffb-4bc5-98f9-1be9e0759780" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../woniuboss4.0测试用例zs.xls" beforeDir="false" afterPath="$PROJECT_DIR$/../woniuboss4.0测试用例zs.xls" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/geckodriver.log" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/geckodriver.log" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,8 +20,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
   <component name="ProjectId" id="1b9vihSxLuS0l2mZWbn2hxDa4cx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="File.Encoding" />
   </component>
@@ -40,7 +50,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.hr test">
+  <component name="RunManager" selected="Python.driven">
     <configuration name="driven" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="woniubossGUI40" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -156,9 +166,9 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.driven" />
         <item itemvalue="Python tests.Unittests in hrtest.py" />
         <item itemvalue="Python.test" />
-        <item itemvalue="Python.driven" />
         <item itemvalue="Python tests.Unittests for hrtest.hrTest.test_add_hr" />
         <item itemvalue="Python tests.Unittests in test.py" />
       </list>
@@ -176,5 +186,16 @@
       <updated>1588057252311</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
