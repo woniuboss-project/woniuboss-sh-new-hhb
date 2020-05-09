@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="04910c64-4ffb-4bc5-98f9-1be9e0759780" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../woniuboss4.0测试用例zs.xls" beforeDir="false" afterPath="$PROJECT_DIR$/../woniuboss4.0测试用例zs.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../woniuboss4.0_LT/woniubossUIDDT/.idea/woniubossUIDDT.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/geckodriver.log" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/geckodriver.log" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
